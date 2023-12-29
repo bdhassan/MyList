@@ -1,7 +1,7 @@
 # MyList
 Added other methods and a main to MyList. The methods are:
 
-swap: swap two items at specified position
+swap: swap two items at the specified position
 reverse: reverse the items 
 indexOf: find the index at which a specified T item first appears 
 lastIndexOf: find the index at which a specified T item last appears 
